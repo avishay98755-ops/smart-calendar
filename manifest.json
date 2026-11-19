@@ -1,0 +1,12 @@
+
+{
+  "name": "Smart Calendar",
+  "short_name": "Smart Calendar",
+  "description": "היומן החכם האישי שלי",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafd",
+  "theme_color": "#1a73e8",
+  "dir": "rtl",
+  "lang": "he"
+}
